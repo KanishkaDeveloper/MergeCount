@@ -33,6 +33,14 @@ Complete the required functions inside the `LinkedList` class. Follow the proble
 | `SORT` | Sort the list using merge sort |
 | `SORT_COUNT` | Count inversions and sort the list |
 
+### Test Case Distribution:
+- 01–04: insertion operations
+- 05–08: insertion + deletion
+- 09–10: FIND, DISPLAY, COUNT
+- 11–16: SORT
+- 17–24: SORT_COUNT
+- 25–40: mixed operations
+
 ## Learning Resources
 1. Singly Linked Lists
 
